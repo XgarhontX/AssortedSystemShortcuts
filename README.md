@@ -1,6 +1,6 @@
 # Assorted System Shortcuts
 <img src="./readmepreview.png"></img><br>
-Windows Rainmeter skin of buttons to access hard to reach system windows.
+Windows Rainmeter skin of shortcut buttons to access hard to reach system windows.
 
 ## Shortcuts
 - Services (services.msc)
